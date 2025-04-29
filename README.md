@@ -88,16 +88,3 @@
 
 ---
 
-<h3 align="left">📊 GitHub Stats:</h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yug-Bothra&show_icons=true&locale=en" alt="Yug Bothra GitHub Stats" />
-</p>
-
----
-
-<h3 align="left">🔥 GitHub Streak:</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yug-Bothra" alt="Yug Bothra GitHub Streak" />
-</p>
