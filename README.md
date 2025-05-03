@@ -1,4 +1,4 @@
-![logo](https://github.com/Yug-Bothra/Yug-Bothra/blob/main/BANNERGIT.png)
+![logo](https://github.com/Yug-Bothra/Yug-Bothra/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Yug Bothra</h1>
 <h3 align="center">A passionate full stack developer</h3>
