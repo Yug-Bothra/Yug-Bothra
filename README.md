@@ -80,12 +80,15 @@
 
 # Projects Showcase
 
+# Projects Showcase
+
 | Project | Description | Link |
 |:-------:|:------------:|:----:|
-| ![NOVEL-NEST](https://raw.githubusercontent.com/Yug-Bothra/NOVEL-NEST/main/NOVEL-NEST.png) | An AI-powered platform to generate novels and get personalized book recommendations based on selected genres. | [NOVEL-NEST](https://novelnestwebsite.netlify.app/) |
+| ![NOVEL-NEST](https://github.com/Yug-Bothra/Yug-Bothra/blob/main/NOVEL-NEST.png?raw=true) | An AI-powered platform to generate novels and get personalized book recommendations based on selected genres. | [NOVEL-NEST](https://novelnestwebsite.netlify.app/) |
 | ![Coffee Website](https://raw.githubusercontent.com/Yug-Bothra/Yug-Bothra/main/coffee.png) | A modern and responsive coffee shop landing page. | [Coffee Website](https://yug-bothra.github.io/COFFEE-WEB-SITE-/) |
 | ![TRADEgain](https://raw.githubusercontent.com/Yug-Bothra/Yug-Bothra/main/TRADEgain.png) | A professional trading and finance solutions website. | [TRADEgain](https://yug-bothra.github.io/TRADEgain/) |
 | ![Gym Landing Page](https://raw.githubusercontent.com/Yug-Bothra/Yug-Bothra/main/gym.png) | A simple and clean gym landing page made with pure HTML. | [Gym Landing Page](https://yug-bothra.github.io/landing-page-gym/) |
+
 
 
 </div>
