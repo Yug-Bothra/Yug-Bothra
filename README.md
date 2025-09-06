@@ -16,7 +16,7 @@
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
 
-javascript
+```javascript
 const yug = {
     pronouns: "he" | "him",
     code: ["JavaScript", "Python", "HTML/CSS", "C++"],
@@ -36,7 +36,7 @@ const yug = {
     currentFocus: "Building scalable React applications",
     funFact: "I think I am funny 😄"
 };
-
+```
 
 <br/>
 
@@ -69,7 +69,7 @@ const yug = {
 ### ⚡ Backend & Database Power  
 <img src="https://skillicons.dev/icons?i=nodejs,django,python,mongodb,postgresql,mysql&theme=dark" />
 
-### 🛠 Tools & Technologies
+### 🛠️ Tools & Technologies
 <img src="https://skillicons.dev/icons?i=azure,electron,cpp,git,vscode,figma&theme=dark" />
 
 </div>
@@ -90,12 +90,12 @@ const yug = {
 <img src="https://github.com/Yug-Bothra/Yug-Bothra/blob/main/image.png?raw=true" width="100%" alt="Portfolio"/>
 </a>
 
-*🌟 Portfolio Website*
+**🌟 Portfolio Website**
 > Modern & responsive portfolio showcasing interactive UI components
 > 
-> React • CSS3 • Vercel
+> `React` • `CSS3` • `Vercel`
 
-[🔗 *View Live*](https://port-folio-v35m.vercel.app/)
+[🔗 **View Live**](https://port-folio-v35m.vercel.app/)
 
 </div>
 </td>
@@ -107,12 +107,12 @@ const yug = {
 <img src="https://github.com/Yug-Bothra/Yug-Bothra/blob/main/NOVEL-NEST.png?raw=true" width="100%" alt="Novel Nest"/>
 </a>
 
-*📚 NOVEL-NEST*
+**📚 NOVEL-NEST**
 > AI-powered novel generation & personalized book recommendations
 > 
-> React • AI API • Modern UI
+> `React` • `AI API` • `Modern UI`
 
-[🔗 *Explore*](https://novelnestwebsite.netlify.app/)
+[🔗 **Explore**](https://novelnestwebsite.netlify.app/)
 
 </div>
 </td>
@@ -129,12 +129,12 @@ const yug = {
 <img src="https://raw.githubusercontent.com/Yug-Bothra/Yug-Bothra/main/TRADEgain.png" width="100%" alt="TRADEgain"/>
 </a>
 
-*📈 TRADEgain*
+**📈 TRADEgain**
 > Professional trading platform
 > 
-> JavaScript • CSS3 • Responsive
+> `JavaScript` • `CSS3` • `Responsive`
 
-[🔗 *Visit*](https://yug-bothra.github.io/TRADEgain/)
+[🔗 **Visit**](https://yug-bothra.github.io/TRADEgain/)
 
 </div>
 </td>
@@ -146,12 +146,12 @@ const yug = {
 <img src="https://raw.githubusercontent.com/Yug-Bothra/Yug-Bothra/main/coffee.png" width="100%" alt="Coffee Shop"/>
 </a>
 
-*☕ Coffee Shop*
+**☕ Coffee Shop**
 > Elegant landing page design
 > 
-> HTML5 • CSS3 • Responsive
+> `HTML5` • `CSS3` • `Responsive`
 
-[🔗 *Taste*](https://yug-bothra.github.io/COFFEE-WEB-SITE-/)
+[🔗 **Taste**](https://yug-bothra.github.io/COFFEE-WEB-SITE-/)
 
 </div>
 </td>
@@ -163,12 +163,12 @@ const yug = {
 <img src="https://raw.githubusercontent.com/Yug-Bothra/Yug-Bothra/main/gym.png" width="100%" alt="Gym Landing"/>
 </a>
 
-*🏋 Fitness Landing*
+**🏋️ Fitness Landing**
 > Clean & user-focused design
 > 
-> HTML5 • Pure CSS • UX
+> `HTML5` • `Pure CSS` • `UX`
 
-[🔗 *Workout*](https://yug-bothra.github.io/landing-page-gym/)
+[🔗 **Workout**](https://yug-bothra.github.io/landing-page-gym/)
 
 </div>
 </td>
@@ -183,13 +183,13 @@ const yug = {
 
 <div align="center">
 
-yaml
+```yaml
 🎯 Building: Scalable React applications with cutting-edge patterns
 📚 Learning: Advanced Node.js & modern backend architectures  
 🤖 Exploring: AI integration in modern web applications
 🎨 Perfecting: UI/UX design principles & responsive patterns
 🚀 Goal: Creating impactful solutions that matter
-
+```
 
 </div>
 
