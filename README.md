@@ -84,80 +84,26 @@ const yug = {
 <tr>
 <td width="50%" valign="top">
 
-### 🚀 React Applications
-<div align="center">
-<a href="https://port-folio-v35m.vercel.app/" target="_blank">
-<img src="https://github.com/Yug-Bothra/Yug-Bothra/blob/main/image.png?raw=true" width="100%" alt="Portfolio"/>
-</a>
-
-**🌟 Portfolio Website**
-> Modern & responsive portfolio showcasing interactive UI components
-> 
-> `React` • `CSS3` • `Vercel`
-
-[🔗 **View Live**](https://port-folio-v35m.vercel.app/)
-
-</div>
-</td>
-<td width="50%" valign="top">
-
-### 🤖 AI-Powered Platform
-<div align="center">
-<a href="https://novelnestwebsite.netlify.app/" target="_blank">
-<img src="https://github.com/Yug-Bothra/Yug-Bothra/blob/main/NOVEL-NEST.png?raw=true" width="100%" alt="Novel Nest"/>
-</a>
-
-**📚 NOVEL-NEST**
-> AI-powered novel generation & personalized book recommendations
-> 
-> `React` • `AI API` • `Modern UI`
-
-[🔗 **Explore**](https://novelnestwebsite.netlify.app/)
-
-</div>
-</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td width="33%" valign="top">
-
-### 💼 JavaScript Solutions
+### 🌐 Full-Stack Cloud Platform
 <div align="center">
 <a href="https://neuro-campus-73w8.vercel.app/" target="_blank">
 <img src="https://github.com/user-attachments/assets/ee5d55b9-3eaf-409d-9c80-e977da99178d" width="100%" alt="Campus Cloud Network"/>
 </a>
 
-**🌐 Campus Cloud Network**  
-> Professional campus management platform  
+**🚀 Campus Cloud Network**  
+> A full–stack university ecosystem featuring **5 complete panels**:  
+> **Teacher**, **Student**, **Admin**, **Guest**, and **Accounts**.  
+> Includes face-recognition attendance, e-library, e-canteen, performance analytics & AI integrations.  
 >  
-> `JavaScript` • `CSS3` • `Responsive`
+> `React` • `TailwindCSS` • `Vite` • `Supabase` • `Python Backend`
 
 [🔗 **Visit**](https://neuro-campus-73w8.vercel.app/)
 </div>
+
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-
-### ☕ Design Excellence
-<div align="center">
-<a href="https://yug-bothra.github.io/COFFEE-WEB-SITE-/" target="_blank">
-<img src="https://raw.githubusercontent.com/Yug-Bothra/Yug-Bothra/main/coffee.png" width="100%" alt="Coffee Shop"/>
-</a>
-
-**☕ Coffee Shop**
-> Elegant landing page design
-> 
-> `HTML5` • `CSS3` • `Responsive`
-
-[🔗 **Taste**](https://yug-bothra.github.io/COFFEE-WEB-SITE-/)
-
-</div>
-</td>
-<td width="33%" valign="top">
-
-### 💪 Minimalist UI
+### 📱 Social Media Platform
 <div align="center">
 <a href="https://foram.vercel.app/" target="_blank">
 <img 
@@ -168,20 +114,75 @@ const yug = {
 </a>
 
 **📱 Foram — College Social Media**  
-> A fast, clean & minimal social platform for campus students  
+> A fast, clean & minimal community platform for students  
 >  
-> `Next.js` • `TailwindCSS` • `Responsive`
+> `React` • `Supabase Buckets` • `Real-time UI`
 
 [🔗 **Visit**](https://foram.vercel.app/)
 </div>
-</td>
-<td width="33%" valign="top">
 
-
-</div>
 </td>
 </tr>
 </table>
+
+---
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 🚀 React Applications
+<div align="center">
+<a href="https://port-folio-v35m.vercel.app/" target="_blank">
+<img src="https://github.com/Yug-Bothra/Yug-Bothra/blob/main/image.png?raw=true" width="100%" alt="Portfolio"/>
+</a>
+
+**🌟 Portfolio Website**  
+> Modern & responsive portfolio showcasing interactive UI components  
+>  
+> `React` • `CSS3` • `Vercel`
+
+[🔗 **View Live**](https://port-folio-v35m.vercel.app/)
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI-Powered Platform
+<div align="center">
+<a href="https://novelnestwebsite.netlify.app/" target="_blank">
+<img src="https://github.com/Yug-Bothra/Yug-Bothra/blob/main/NOVEL-NEST.png?raw=true" width="100%" alt="Novel Nest"/>
+</a>
+
+**📚 NOVEL-NEST**  
+> AI-powered novel generation & personalized recommendations  
+>  
+> `React` • `AI API` • `UI/UX`
+
+[🔗 **Explore**](https://novelnestwebsite.netlify.app/)
+</div>
+
+</td>
+<td width="33%" valign="top">
+
+### ☕ Design Excellence
+<div align="center">
+<a href="https://yug-bothra.github.io/COFFEE-WEB-SITE-/" target="_blank">
+<img src="https://raw.githubusercontent.com/Yug-Bothra/Yug-Bothra/main/coffee.png" width="100%" alt="Coffee Shop"/>
+</a>
+
+**☕ Coffee Shop**  
+> Elegant landing page design  
+>  
+> `HTML5` • `CSS3` • `Responsive`
+
+[🔗 **Taste**](https://yug-bothra.github.io/COFFEE-WEB-SITE-/)
+</div>
+
+</td>
+</tr>
+</table>
+
 
 </div>
 
