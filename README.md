@@ -126,20 +126,19 @@ const yug = {
 ### 💼 JavaScript Solutions
 <div align="center">
 <a href="https://neuro-campus-73w8.vercel.app/" target="_blank">
-<img src="<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/ee5d55b9-3eaf-409d-9c80-e977da99178d" />
-" width="100%" alt="Campus Cloud Network"/>
+<img src="https://github.com/user-attachments/assets/ee5d55b9-3eaf-409d-9c80-e977da99178d" width="100%" alt="Campus Cloud Network"/>
 </a>
 
-**🌐 Campus Cloud Network**
-> Professional campus management platform
-> 
+**🌐 Campus Cloud Network**  
+> Professional campus management platform  
+>  
 > `JavaScript` • `CSS3` • `Responsive`
 
 [🔗 **Visit**](https://neuro-campus-73w8.vercel.app/)
-
 </div>
 </td>
 <td width="33%" valign="top">
+
 
 ### ☕ Design Excellence
 <div align="center">
