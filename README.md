@@ -163,7 +163,7 @@ const yug = {
 <img src="https://private-user-images.githubusercontent.com/183505234/491971746-6ffcd6c7-6c1f-4251-89a9-e2c763b671ef.png" width="100%" alt="Foram Social Media"/>
 </a>
 
-**📱 Foram — College Social Media**
+**📱 Foram — College Social Media**  
 > A fast, clean & minimal social platform for campus students  
 >  
 > `Next.js` • `TailwindCSS` • `Responsive`
