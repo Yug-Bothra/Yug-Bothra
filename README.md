@@ -159,16 +159,19 @@ const yug = {
 
 ### 💪 Minimalist UI
 <div align="center">
-<a href="https://yug-bothra.github.io/landing-page-gym/" target="_blank">
-<img src="https://raw.githubusercontent.com/Yug-Bothra/Yug-Bothra/main/gym.png" width="100%" alt="Gym Landing"/>
+<a href="https://foram.vercel.app/" target="_blank">
+<img src="https://private-user-images.githubusercontent.com/183505234/491971746-6ffcd6c7-6c1f-4251-89a9-e2c763b671ef.png" width="100%" alt="Foram Social Media"/>
 </a>
 
-**🏋️ Fitness Landing**
-> Clean & user-focused design
-> 
-> `HTML5` • `Pure CSS` • `UX`
+**📱 Foram — College Social Media**
+> A fast, clean & minimal social platform for campus students  
+>  
+> `Next.js` • `TailwindCSS` • `Responsive`
 
-[🔗 **Workout**](https://yug-bothra.github.io/landing-page-gym/)
+[🔗 **Visit**](https://foram.vercel.app/)
+</div>
+</td>
+<td width="33%" valign="top">
 
 </div>
 </td>
