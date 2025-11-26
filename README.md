@@ -125,16 +125,17 @@ const yug = {
 
 ### 💼 JavaScript Solutions
 <div align="center">
-<a href="https://yug-bothra.github.io/TRADEgain/" target="_blank">
-<img src="https://raw.githubusercontent.com/Yug-Bothra/Yug-Bothra/main/TRADEgain.png" width="100%" alt="TRADEgain"/>
+<a href="https://neuro-campus-73w8.vercel.app/" target="_blank">
+<img src="<img width="1919" height="871" alt="image" src="https://github.com/user-attachments/assets/ee5d55b9-3eaf-409d-9c80-e977da99178d" />
+" width="100%" alt="Campus Cloud Network"/>
 </a>
 
-**📈 TRADEgain**
-> Professional trading platform
+**🌐 Campus Cloud Network**
+> Professional campus management platform
 > 
 > `JavaScript` • `CSS3` • `Responsive`
 
-[🔗 **Visit**](https://yug-bothra.github.io/TRADEgain/)
+[🔗 **Visit**](https://neuro-campus-73w8.vercel.app/)
 
 </div>
 </td>
