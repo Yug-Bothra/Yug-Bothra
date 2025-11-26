@@ -160,7 +160,11 @@ const yug = {
 ### 💪 Minimalist UI
 <div align="center">
 <a href="https://foram.vercel.app/" target="_blank">
-<img src="https://private-user-images.githubusercontent.com/183505234/491971746-6ffcd6c7-6c1f-4251-89a9-e2c763b671ef.png" width="100%" alt="Foram Social Media"/>
+<img 
+  src="https://github.com/user-attachments/assets/3fe48e59-3a15-49d4-811b-a2a92a617ade" 
+  width="100%" 
+  alt="Foram Social Media"
+/>
 </a>
 
 **📱 Foram — College Social Media**  
@@ -172,6 +176,7 @@ const yug = {
 </div>
 </td>
 <td width="33%" valign="top">
+
 
 </div>
 </td>
