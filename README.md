@@ -159,7 +159,7 @@ const yug = {
 >  
 > `React` • `AI API` • `UI/UX`
 
-[🔗 **Explore**](https://novelnestwebsite.netlify.app/)
+[🔗 **Explore**](https://novelnest-wdfo.vercel.app/)
 </div>
 
 </td>
