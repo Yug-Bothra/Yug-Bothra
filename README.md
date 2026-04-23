@@ -1,5 +1,5 @@
 <!-- SEO Meta Tags for GitHub Profile -->
-<!-- Keywords: Yug Bothra, Python Developer, FastAPI, React, Backend Engineer, Full Stack Developer -->
+<!-- Keywords: Yug-Bothra, Python Developer, FastAPI, React, Backend Engineer, Full Stack Developer -->
 <!-- Description: Yug Bothra - Python Developer specializing in FastAPI, React, and backend engineering -->
 
 ![Developer Banner](https://github.com/Yug-Bothra/Yug-Bothra/blob/main/banner.jpg)
@@ -7,7 +7,7 @@
 # Yug Bothra - Python Developer & Backend Engineer | FastAPI | React
 
 <p align="center">
-  <b>Yug Bothra</b> is a Full-Stack Python Developer specializing in FastAPI, React, and scalable backend engineering.<br/>
+  <b>Yug-Bothra</b> is a Full-Stack Python Developer specializing in FastAPI, React, and scalable backend engineering.<br/>
   🚀 Building high-performance web applications | 💻 Open Source Enthusiast | 🎯 Problem Solver<br/>
   <strong>Official GitHub Profile of Yug Bothra</strong>
 </p>
@@ -32,7 +32,7 @@
 
 ```javascript
 const yugBothra = {
-    name: "Yug Bothra",
+    name: "Yug-Bothra",
     title: "Python Developer & Backend Engineer",
     pronouns: "he" | "him",
     location: "India",
@@ -291,7 +291,7 @@ const yugBothra = {
 
 **Interested in working with Yug Bothra?**
 - 📧 **Email:** yugbothra200@outlook.com
-- 💼 **LinkedIn:** [Yug Bothra](https://www.linkedin.com/in/yug-bothra/)
+- 💼 **LinkedIn:** [Yug-Bothra](https://www.linkedin.com/in/yug-bothra/)
 - 🌐 **Portfolio:** [port-folio-v35m.vercel.app](https://port-folio-v35m.vercel.app/)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=fadeIn"/>
