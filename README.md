@@ -1,6 +1,6 @@
 ![Developer Banner](https://github.com/Yug-Bothra/Yug-Bothra/blob/main/banner.jpg)
 
- # Yug Bothra
+  # Yug Bothra GitHub Profile
   
   Yug Bothra is a Python Developer specializing in FastAPI, React, and backend engineering.
   
@@ -20,7 +20,8 @@
 
 <br/>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> About Me
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me
 
 ```javascript
 const yug = {
