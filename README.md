@@ -1,10 +1,13 @@
 ![Developer Banner](https://github.com/Yug-Bothra/Yug-Bothra/blob/main/banner.jpg)
 
-  # Yug Bothra GitHub Profile
-  
-  Yug Bothra is a Python Developer specializing in FastAPI, React, and backend engineering.
-  
+# Yug Bothra GitHub Profile
+
+<p align="center">
+  <b>Yug Bothra</b> is a Python Developer specializing in FastAPI, React, and backend engineering.<br/>
   Official GitHub profile of Yug Bothra.
+</p>
+
+---
 
 <div align="center">
   <h1>
@@ -12,14 +15,13 @@
   </h1>
   
   <h3>
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Full-Stack+Developer;React+Enthusiast;JavaScript+Expert;UI%2FUX+Designer;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=600&height=50&duration=4000&lines=Python+Developer;FastAPI+%7C+React;Backend+Engineer;" />
   </h3>
 </div>
 
 <img align="right" width="320" src="https://github.com/Yug-Bothra/Yug-Bothra/blob/main/git.gif" alt="coding animation">
 
 <br/>
-
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> About Me
 
@@ -34,13 +36,12 @@ const yug = {
             css: ["CSS3", "Responsive Design"]
         },
         backEnd: {
-            python: ["Django"],
-            js: ["Node.js"]
+            python: ["Django", "FastAPI"],
         },
         databases: ["MongoDB", "PostgreSQL", "MySQL"],
         tools: ["Azure", "Git", "Electron"]
     },
-    currentFocus: "Building scalable React applications",
+    currentFocus: "Building scalable backend systems",
     funFact: "I think I am funny 😄"
 };
 ```
