@@ -4,7 +4,7 @@
 
 ![Developer Banner](https://github.com/Yug-Bothra/Yug-Bothra/blob/main/banner.jpg)
 
-# Yug Bothra - Python Developer & Backend Engineer | FastAPI | React
+# Yug-Bothra - Python Developer & Backend Engineer | FastAPI | React
 
 <p align="center">
   <b>Yug-Bothra</b> is a Full-Stack Python Developer specializing in FastAPI, React, and scalable backend engineering.<br/>
